@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramgopal99&theme=radical" alt="ramgopal99" /></a> </p>
 
-- 🌱 I’m currently learning **react native**
-- 💬 Ask me about **reactjs,python**
+- 🌱 I’m currently learning **Next Js**
+- 💬 Ask me about **reactjs,python,flutter**
 - 📫 How to reach me **ramgopalbagh009@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/ramgopal-bagh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
