@@ -1,23 +1,23 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:6366f1&height=220&section=header&text=Hi,%20I'm%20Ramgopal%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Product%20Builder&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:6366f1&height=220&section=header&text=Hi,%20I'm%20Ramgopal%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Product%20Builder&descAlignY=58&descSize=18" alt="Hi, I'm Ramgopal 👋 · Full-Stack Developer · Product Builder" />
 </p>
 
 <p align="center">
   <a href="https://www.ramgopal.space">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+real+products;Next.js+%7C+React+%7C+Node.js+%7C+Python;From+first+sketch+to+shipped+release;Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Repeat" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+real+products;Next.js+%7C+React+%7C+Node.js+%7C+Python;From+first+sketch+to+shipped+release;Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Repeat" alt="I turn ideas into real products 🚀" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.ramgopal.space"><img src="https://img.shields.io/badge/Portfolio-ramgopal.space-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ramgopal-bagh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ramgopalbagh009@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/918280993756"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.ramgopal.space"><img src="https://img.shields.io/badge/Portfolio-ramgopal.space-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="🌐 Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ramgopal-bagh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="💼 LinkedIn" /></a>
+  <a href="mailto:ramgopalbagh009@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="📧 Email" /></a>
+  <a href="https://wa.me/918280993756"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="💬 WhatsApp" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramgopal99&label=Profile%20Views&color=6366f1&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ramgopal99&label=Profile%20Views&color=6366f1&style=flat-square" alt="👀 Thanks for visiting!" />
 </p>
 
 ---
@@ -47,23 +47,23 @@ const ramgopal = {
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,flutter,html,css,tailwind,threejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,flutter,html,css,tailwind,threejs&theme=dark" alt="React · Next.js · TypeScript · JavaScript · Flutter · HTML · CSS · Tailwind · Three.js" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql,rust&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql,rust&theme=dark" alt="Node.js · Express · Python · FastAPI · GraphQL · Rust" />
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" alt="MongoDB · PostgreSQL · Redis" />
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,githubactions,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,githubactions,git,github&theme=dark" alt="AWS · Google Cloud · Docker · Vercel · GitHub Actions · Git · GitHub" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,tauri&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,tauri&theme=dark" alt="VS Code · Postman · Figma · Notion · Tauri" />
 
 ---
 
@@ -105,17 +105,19 @@ const ramgopal = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramgopal99&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramgopal99&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramgopal99&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="📊 GitHub Stats · 50+ projects shipped" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramgopal99&layout=compact&hide_border=true&theme=tokyonight" alt="💻 Top Languages · TypeScript · JavaScript · Python" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramgopal99&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ramgopal99&theme=tokyonight&hide_border=true" alt="🔥 Coding every day" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramgopal99&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramgopal99&theme=tokyo-night&hide_border=true&area=true" alt="📈 Contribution activity graph" />
 </p>
+
+<p align="center"><sub>Stats not loading? See my live activity on the <a href="https://github.com/ramgopal99">contribution calendar</a> ↓</sub></p>
 
 ---
 
@@ -131,7 +133,7 @@ THINK  →  BUILD  →  TEST  →  SHIP  →  IMPROVE  →  repeat
 
 <p align="center">
   <b>Have an idea? Let's build something real. 🚀</b><br/><br/>
-  <a href="mailto:ramgopalbagh009@gmail.com"><img src="https://img.shields.io/badge/Let's%20Work%20Together-6366f1?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="mailto:ramgopalbagh009@gmail.com"><img src="https://img.shields.io/badge/Let's%20Work%20Together-6366f1?style=for-the-badge&logo=rocket&logoColor=white" alt="🚀 Let's Work Together" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e3a8a,100:0f172a&height=120&section=footer" alt="" />
